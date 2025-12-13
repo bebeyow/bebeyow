@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd2NzVudGljdGR0ZDZvc2VjZzRmcXVrdXd6ZmZudmV2NDBsYXlqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="250" />
+  <img src="./assets/monkey-developer.gif" height="200" />
 </div>
 
 ###
