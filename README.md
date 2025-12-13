@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/monkey-developer.gif" height="200" />
+  <img src="./assets/ika-musume.gif" height="200" />
 </div>
 
 ###
