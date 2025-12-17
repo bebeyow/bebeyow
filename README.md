@@ -12,6 +12,7 @@
 
 <h1 align="center">Hi 👋, I'm Jovelyn Adante</h1>
 <h3 align="center">Write Code, Change Worlds</h3>
+
 ---
 
 <!-- ============================= -->
