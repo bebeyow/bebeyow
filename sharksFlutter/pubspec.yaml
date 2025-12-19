@@ -1,0 +1,55 @@
+name: adante_endangeredrareshark
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.2.1
+  image_picker: ^1.1.2
+  tflite_flutter: ^0.12.1
+  image: ^4.1.7
+  cloud_firestore: ^6.1.0
+  flutter_svg: ^2.2.3
+  google_fonts: ^6.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/model_unquant.tflite
+    - assets/labels.txt
+    - assets/shark_icon.svg
+    - assets/graph.svg
+    - assets/angelshark.jpg
+    - assets/baskingshark.webp
+    - assets/broadnose.jpg
+    - assets/frilled.jpg
+    - assets/goblin.jpg
+    - assets/greathammerhead.webp
+    - assets/shortfin.webp
+    - assets/shorttail.jpg
+    - assets/spotted.jpg
+    - assets/zebra.jpeg
+    - assets/default.jpg
+    - assets/logo.png
+    - assets/bg.png
+    - assets/scanner.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/profile.png"
