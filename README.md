@@ -24,6 +24,13 @@ Hello! I’m Jovelyn Adante, a BSIT student specializes in web and application d
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bebeyow&show_icons=true&locale=en&layout=compact" alt="bebeyow" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bebeyow&show_icons=true&locale=en" alt="bebeyow" />
+</p>
+
+---
+
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
@@ -188,7 +195,7 @@ _A platform for renting vehicles on Siargao Island with easy bookings and fleet 
 
 ---
 
-## 🚧 Work in Progress
+## 🚧 Current Project
 - **Endangered Rare Shark Species** 🦈🌊  
   _A Flutter-based mobile app for exploring, learning about, and classifying rare and endangered shark species._  
 
@@ -201,7 +208,44 @@ _A platform for renting vehicles on Siargao Island with easy bookings and fleet 
  - Upload or capture photos to identify shark species
  - Access detailed species information, including habitat, physical traits, and conservation status
  - Offline access to the library and saved classification results
- 
+
+## 🦈 Endangered Rare Shark Species Gallery
+
+| Species Name | Description | Sample Image |
+| :--- | :--- | :--- |
+| **Angelshark** | Flattened body resembling a ray, usually camouflaged on the seafloor. Ambush predator with a wide, flat head. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Angelshark.jpg?raw=true" width="100"> |
+| **Goblin Shark** | Deep-sea shark with an elongated, flattened snout and protrusible jaws. Rarely seen, often called a “living fossil.” | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Goblin%20Shark.avif?raw=true" width="100"> |
+| **Basking Shark** | Second-largest shark in the world. Gentle filter-feeder with a wide mouth for plankton. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Basking%20Shark.webp?raw=true" width="100"> |
+| **Broadnose Sevengill Shark** | Primitive shark with seven gill slits and a broad head. Mostly found near the seafloor. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Broadnose%20Sevengill%20Shark.webp?raw=true" width="100"> |
+| **Frilled Shark** | Deep-sea shark with eel-like body and frilly gill slits. Often called a “living fossil.” | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Frilled%20Shark.jpg?raw=true" width="100"> |
+| **Great Hammerhead Shark** | Apex predator with a distinctive hammer-shaped head. Prefers coastal habitats. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Great%20Hammerhead%20Shark.jpeg?raw=true" width="100"> |
+| **Short-tail Nurse Shark** | Bottom-dwelling shark, nocturnal hunter. Relatively small and docile. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Short-tail%20Nurse%20Shark.webp?raw=true" width="100"> |
+| **Shortfin Mako Shark** | Fastest shark species, streamlined for speed. Apex predator in open waters. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Shortfin%20Mako%20Shark.jpg?raw=true" width="100"> |
+| **Spotted Wobbegong** | Camouflaged carpet shark found near reefs. Ambush predator with intricate skin patterns. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Spotted%20Wobbegong.jpg?raw=true" width="100"> |
+| **Zebra Shark** | Bottom-dwelling shark with distinctive striped pattern as juvenile, spotted as adult. Nocturnal hunter. | <img src="https://github.com/bebeyow/bebeyow/blob/main/Shark%20Species/Zebra%20Shark.jpeg?raw=true" width="100"> |
+
+ ## 📱 App Interface 
+
+| Icon Side | Splash Screen |
+| :---: | :---: |
+| <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/3.jpg?raw=true" width="300"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/4.jpg?raw=true" width="300"> |
+| The **Icon Side** represents the app’s branding and mission to raise awareness and protect endangered rare shark species. | The **Splash Screen** displays only the app logo as an introduction before navigating to the main page. |
+
+| Main Page | Shark Library |
+| :---: | :---: |
+| <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/1.jpg?raw=true" width="300"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/18.jpg?raw=true" width="300"> |
+| The **Main Page** is the app’s home, allowing users to capture photos or upload images of sharks for classification. | The **Shark Library** displays the endangered and rare shark species with detailed information about each one. |
+
+| Analytics | Scan Activity | App Information |
+| :---: | :---: | :---: |
+| <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/23.jpg?raw=true" width="250"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/22.jpg?raw=true" width="250"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/21.jpg?raw=true" width="250"> |
+| The **Analytics** section shows statistics on the user’s classification history and interactions with different shark species. | The **Scan Activity** page keeps a record of past scans, including the detected shark species and the time. This lets users review previous results and track their usage of the Shark Classification app. | The **App Information** page details the app's mission to support marine conservation, its purpose in identifying rare species, and provides essential tips for obtaining the best scanning results. |
+
+| Shark Scanner | Result | Shark Information |
+| :---: | :---: | :---: |
+| <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/2.jpg?raw=true" width="250"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/5.jpg?raw=true" width="250"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/6.jpg?raw=true" width="250"> |
+| The **Shark Scanner** provides the option to capture a new photo directly or select an existing image from the phone's gallery for analysis. | The **Result** screen displays the species match percentage alongside a visual breakdown of the top predicted species discovered. | The **Shark Information** page offers comprehensive details including scientific names, IUCN status, physical traits, habitat range, and diet. |
+
 ---
 
 ## 👯 Collaboration
@@ -213,11 +257,3 @@ _A platform for renting vehicles on Siargao Island with easy bookings and fleet 
 - **Email:** jovelynladante04@gmail.com
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bebeyow&show_icons=true&locale=en&layout=compact" alt="bebeyow" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bebeyow&show_icons=true&locale=en" alt="bebeyow" />
-</p>
