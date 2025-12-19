@@ -239,7 +239,7 @@ _A platform for renting vehicles on Siargao Island with easy bookings and fleet 
 | Analytics | Scan Activity | App Information |
 | :---: | :---: | :---: |
 | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/23.jpg?raw=true" width="250"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/22.jpg?raw=true" width="250"> | <img src="https://github.com/bebeyow/bebeyow/blob/main/applicationScreenshots/21.jpg?raw=true" width="250"> |
-| The **Analytics** section shows statistics on the user’s classification history and interactions with different shark species. | The **Scan Activity** page keeps a record of past scans, including the detected shark species and the time. This lets users review previous results and track their usage of the Shark Classification app. | The **App Information** page details the app's mission to support marine conservation, its purpose in identifying rare species, and provides essential tips for obtaining the best scanning results. |
+| The **Analytics** section shows statistics on the user’s classification history and interactions with different shark species. | The **Scan Activity** page keeps a record of past scans, including the detected shark species and the time. | The App Information page highlights the project's marine conservation mission, species identification goals, and essential scanning tips for best results. |
 
 | Shark Scanner | Result | Shark Information |
 | :---: | :---: | :---: |
