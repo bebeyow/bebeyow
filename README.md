@@ -10,9 +10,6 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-<h1 align="center">Hi 👋, I'm Jovelyn Adante</h1>
-<h3 align="center">Write Code, Change Worlds</h3>
-
 ---
 
 <!-- ============================= -->
@@ -20,7 +17,7 @@
 <!-- ============================= -->
 
 ## ✨ About Me  
-Hello! I’m Jovelyn Adante, a BSIT student specializes in web and application development, continuously learning new technologies, and transforming real-world problems into digital solutions.
+Hello! I’m Jovelyn, a BSIT student specializes in web and application development, continuously learning new technologies, and transforming real-world problems into digital solutions.
 
 ---
 
