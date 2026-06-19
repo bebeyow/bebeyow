@@ -26,16 +26,25 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-## 🛠️ Tech & Tools  
+## Tech & Tools  
 
-### 📱 Frontend / UI   
+### Mobile Development / App Development  
 <div align="center">
-<a href="https://developer.android.com/studio">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" />
+<a href="https://reactnative.dev/">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
 </a>
 <a href="https://flutter.dev/">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 </a>
+<a href="https://developer.android.com/studio">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" />
+</a>
+</div>
+
+---
+
+### Frontend / UI   
+<div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
 </a>
@@ -64,7 +73,7 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 
 ---
 
-### 💾 Backend & Databases  
+### Backend & Databases  
 <div align="center">
 <a href="https://www.json.org/">
   <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
@@ -78,11 +87,17 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </a>
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+</a>
 </div>
 
 ---
 
-### ⚙️ Tools & Workflow  
+### Tools & Workflow  
 <div align="center">
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
@@ -98,7 +113,7 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 
 ---
 
-### 🖥️ Languages  
+### Languages  
 <div align="center">
 <a href="https://www.php.net/">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
@@ -124,6 +139,7 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 <a href="https://www.json.org/">
   <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
 </a>
+  
 </div>
 
 ---
@@ -132,7 +148,7 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
 
-## 🔭 My Projects  
+## My Projects  
 
 <p align="center">
   <img src="https://github.com/bebeyow/assets/blob/main/logo1.png?raw=true" width="150" alt="Barangay Portal"/>
