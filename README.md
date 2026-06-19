@@ -1,26 +1,25 @@
-<!-- ============================= -->
-<!--          BANNER SECTION       -->
-<!-- ============================= -->
-
-![Banner](https://github.com/bebeyow/assets/blob/main/profile.png?raw=true)
-
----
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
+<p align="center">
+ ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
+</p>
 
-## ✨ About Me  
-Hello! I’m Jovelyn, a BSIT student specializes in web and application development, continuously learning new technologies, and transforming real-world problems into digital solutions.
+Hello! I’m Jovelyn, a BSIT student specializing in web and application development. I enjoy learning new technologies, solving real-world problems through digital solutions, designing UI/UX, including web design, posters, and prototyping interactive ideas into functional layouts.
 
----
+<p align="center">
+ ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bebeyow&show_icons=true&locale=en&layout=compact" alt="bebeyow" />
   <img src="https://github-readme-stats.vercel.app/api?username=bebeyow&show_icons=true&locale=en" alt="bebeyow" />
 </p>
 
----
+<p align="center">
+ ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
+</p>
 
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
@@ -40,8 +39,6 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" />
 </a>
 </div>
-
----
 
 ### Frontend / UI   
 <div align="center">
@@ -71,8 +68,6 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 </a>
 </div>
 
----
-
 ### Backend & Databases  
 <div align="center">
 <a href="https://www.json.org/">
@@ -95,8 +90,6 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 </a>
 </div>
 
----
-
 ### Tools & Workflow  
 <div align="center">
 <a href="https://code.visualstudio.com/">
@@ -110,8 +103,6 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
 </a>
 
 </div>
-
----
 
 ### Languages  
 <div align="center">
@@ -142,7 +133,9 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
   
 </div>
 
----
+<p align="center">
+ ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
+</p>
 
 <!-- ============================= -->
 <!--           MY PROJECTS         -->
@@ -156,8 +149,6 @@ Hello! I’m Jovelyn, a BSIT student specializes in web and application developm
   <img src="https://github.com/bebeyow/assets/blob/main/logo3.png?raw=true" width="150" alt="IslandWheels"/>
 </p>
 
----
-
 ### Barangay Portal
 _A digital platform for residents and officials to manage community services seamlessly._  
 
@@ -169,8 +160,6 @@ _A digital platform for residents and officials to manage community services sea
 - Announcement system with images and text for community updates
 - Secure storage of resident information and requests
 - Mobile-friendly and responsive design
-
----
 
 ### Pet Patch Clinic
 _A complete system to book veterinary services and manage pet appointments effortlessly._  
@@ -185,8 +174,6 @@ _A complete system to book veterinary services and manage pet appointments effor
 - Secure login, signup, and email verification
 - Centralized database for pets, clients, and services
 
----
-
 ### IslandWheels
 _A platform for renting vehicles on Siargao Island with easy bookings and fleet management._  
 
@@ -200,7 +187,7 @@ _A platform for renting vehicles on Siargao Island with easy bookings and fleet 
 - Notifications for booking confirmations and reminders
 - Mobile-friendly for travelers on-the-go
 
----
+
 ### Endangered Rare Shark Species
 
 _A Flutter-based mobile application for identifying, learning about, and promoting awareness of rare and endangered shark species._
@@ -216,9 +203,14 @@ _A Flutter-based mobile application for identifying, learning about, and promoti
 * Offline access to species data and saved classification results
 * Mobile-friendly design for learning and conservation on the go
 
----
+<p align="center">
+ ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
+</p>
 
-## 📫 Contact
-- **Email:** jovelynladante04@gmail.com
 
----
+ ## Contact
+ **Email:** jovelynladante04@gmail.com
+
+<p align="center">
+ ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
+</p>
