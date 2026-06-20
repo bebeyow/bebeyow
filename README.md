@@ -115,8 +115,8 @@ Hello! I’m Jovelyn, a BSIT student specializing in web and application develop
 <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 </a>
-<a href="https://flutter.dev/">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<a href="https://dart.dev/">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
