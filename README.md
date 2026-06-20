@@ -24,8 +24,9 @@ Hello! I’m Jovelyn, a BSIT student specializing in web and application develop
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
-
-## Tech & Tools  
+<div align="center">
+  <h2>Tech & Tools</h2>
+</div>
 
 ### Mobile Development / App Development  
 <div align="center">
@@ -144,7 +145,9 @@ Hello! I’m Jovelyn, a BSIT student specializing in web and application develop
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
 
-## My Projects  
+<div align="center">
+  <h2>My Projecs</h2>
+</div>
 
 <p align="center">
   <img src="https://github.com/bebeyow/assets/blob/main/logo1.png?raw=true" width="150" alt="Barangay Portal"/>
@@ -211,7 +214,10 @@ _A Flutter-based mobile application for identifying, learning about, and promoti
 </p>
 
 
- ## Contact
+<div align="center">
+  <h2>Contact</h2>
+</div>
+
  **Email:** jovelynladante04@gmail.com
 
 <p align="center">
