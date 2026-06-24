@@ -14,7 +14,6 @@ Hello! I’m Jovelyn, a BSIT student specializing in web and application develop
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bebeyow&show_icons=true&locale=en&layout=compact" alt="bebeyow" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bebeyow&show_icons=true&locale=en" alt="bebeyow" />
 </p>
 
 <p align="center">
