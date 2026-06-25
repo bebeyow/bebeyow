@@ -12,14 +12,6 @@ Hello! I’m Jovelyn, a BSIT student specializing in web and application develop
  ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bebeyow&show_icons=true&locale=en&layout=compact" alt="bebeyow" />
-</p>
-
-<p align="center">
- ⋆ ˚✿˖° ⋆ 🍒─── 🌸 ─── ✧ ─── 🌸 ─── 🍒 ⋆ °˖✿˚ ⋆
-</p>
-
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
